@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    position: static;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+
+}
+
+.navbar {
+
+    margin: 10px;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo {
+    width: 100px;
+    cursor: pointer;
+    position: relative;
+    right: 20px;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline;
+    margin: 0 25px;
+
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: hsl(188, 71%, 67%);
+    font-size: 10px;
+}
+
+.bg {
+    position: relative;
+    opacity: 0.3;
+    bottom: 70px;
+
+
+}
+
+.hedding {
+    color: hsl(188, 9%, 17%);
+    text-align: center;
+    font-size: 40PX;
+    position: relative;
+    TOP: 200px;
+}
+
+.para {
+    position: relative;
+    text-align: center;
+    font-size: 13px;
+    top: 220px;
+    color: hsl(191, 14%, 16%);
+}
+
+.button {
+    position: relative;
+    left: 680px;
+    top: 300px;
+    width: 200px;
+    height: 40px;
+    background-color: hsl(165, 100%, 50%);
+    border: 0;
+
+}
+
+.hed2 {
+    text-align: center;
+    color: hsl(188, 9%, 35%);
+}
+
+.para2 {
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    color: hsl(188, 9%, 35%);
+}
+
+.hed4 {
+    text-align: center;
+    color: hsl(188, 9%, 35%);
+}
+
+.hed3 {
+    position: relative;
+    left: 400px;
+    top: 20px;
+    color: hsl(188, 9%, 35%);
+}
+
+.hed5 {
+    position: relative;
+    text-align: end;
+    right: 400px;
+    bottom: 20px;
+    color: hsl(188, 9%, 35%);
+}
+
+.img1 {
+    width: 100px;
+    height: 70px;
+    position: relative;
+    bottom: 65px;
+    left: 300px;
+    color: hsl(188, 71%, 67%);
+}
+
+.img2 {
+    width: 100px;
+    height: 70px;
+    position: relative;
+    bottom: 65px;
+    left: 500px;
+    color: hsl(188, 71%, 67%);
+}
+
+.img3 {
+    width: 100px;
+    height: 70px;
+    left: 750px;
+    bottom: 65px;
+    position: relative;
+    color: hsl(188, 71%, 67%);
+}
+
+.para6 {
+    font-size: 10px;
+    padding-left: 400px;
+    padding-right: 950px;
+    bottom: 70px;
+    position: relative;
+    line-height: 1.3;
+    color: hsl(188, 9%, 35%);
+}
+
+.para7 {
+    font-size: 10px;
+    padding-left: 400px;
+    padding-right: 900px;
+    bottom: 230px;
+    position: relative;
+    left: 300px;
+    line-height: 1.3;
+    color: hsl(188, 9%, 35%);
+
+}
+
+.para8 {
+    font-size: 10px;
+    padding-left: 400px;
+    padding-right: 900px;
+    bottom: 350px;
+    position: relative;
+    left: 650px;
+    line-height: 1.3;
+    color: hsl(188, 9%, 35%);
+
+}
